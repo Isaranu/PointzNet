@@ -3,7 +3,7 @@ Pointznet platform, esp8266 code.
 Version : 27.Aug.2017, 15:00
 */
 
-#include <pointznet.h>
+#include <PointzNet.h>
 
 const char *ssid = "";// "wifi ssid"                    
 const char *password = ""; // "wifi password"
